@@ -29,7 +29,7 @@ function Main() {
             search: `?name=${name}&email=${email}&phone=${phnnumber}`,
           }}
         >
-          <button className="btn-edit">Edit</button>
+          <button  className="border-2 w-fit px-3 mt-5 ml-[36%] rounded-lg font-bold text-white py-2 font-Inter tracking-wider bg-blue-600">Edit</button>
         </Link>
           </div>
       </div>
